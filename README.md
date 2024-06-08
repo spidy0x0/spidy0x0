@@ -10,7 +10,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
+background: url('https://raw.githubusercontent.com/spidy0x0/spidy0x0/main/tornado.jpg');
 "]{}
 
 \mmlToken{ms}[fontfamily="
@@ -61,20 +61,5 @@ pointer-events: none;
 position: fixed;
 inset: 0;
 backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
-"]{}
-
-\mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
-pointer-events: none;
-position: fixed;
-inset: 0;
-z-index: 100;
-font-size: 0.420rem;
-background: url(https://github.com/TheCubiq/TheCubiq/blob/main/ignore.gif?raw=true);
-background-repeat: no-repeat;
-background-size: contain;
-opacity: 0.02;
-background-position-x: center;
 "]{}
 ```
